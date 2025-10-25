@@ -758,7 +758,7 @@
                     <div class="inner-box">
                         <div class="project2-content">
                             <div class="category">Structural Analysis</div>
-                            <img src="{{ asset('assets/images/statika/modeli/G_03_01.jpg') }}" alt="STA JE NA SLICI 1" class="project-image">
+                            <img src="{{ asset('assets/images/MODELI/01_01.png') }}" alt="STA JE NA SLICI 1" class="project-image">
                         </div>
                     </div>
                 </div>
@@ -766,7 +766,7 @@
                     <div class="inner-box">
                         <div class="project2-content">
                             <div class="category">Structural Analysis</div>
-                            <img src="{{ asset('assets/images/statika/modeli/K_01_01.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                            <img src="{{ asset('assets/images/MODELI/02_01.bmp') }}" alt="STA JE NA SLICI 1" class="project-image">
                         </div>
                     </div>
                 </div>
@@ -774,7 +774,39 @@
                     <div class="inner-box">
                         <div class="project2-content">
                             <div class="category">Structural Analysis</div>
-                            <img src="{{ asset('assets/images/statika/modeli/K_03_01.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                            <img src="{{ asset('assets/images/MODELI/03_01.bmp') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project2-block">
+                    <div class="inner-box">
+                        <div class="project2-content">
+                            <div class="category">Structural Analysis</div>
+                            <img src="{{ asset('assets/images/MODELI/04_01.bmp') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project2-block">
+                    <div class="inner-box">
+                        <div class="project2-content">
+                            <div class="category">Structural Analysis</div>
+                            <img src="{{ asset('assets/images/MODELI/05_01.bmp') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project2-block">
+                    <div class="inner-box">
+                        <div class="project2-content">
+                            <div class="category">Structural Analysis</div>
+                            <img src="{{ asset('assets/images/MODELI/06_01.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project2-block">
+                    <div class="inner-box">
+                        <div class="project2-content">
+                            <div class="category">Structural Analysis</div>
+                            <img src="{{ asset('assets/images/MODELI/07_01.png') }}" alt="STA JE NA SLICI 1" class="project-image">
                         </div>
                     </div>
                 </div>
@@ -783,15 +815,7 @@
                     <div class="inner-box">
                         <div class="project2-content">
                             <div class="category">Structural Analysis</div>
-                            <img src="{{ asset('assets/images/statika/modeli/K_08_01.jpg') }}" alt="STA JE NA SLICI 1" class="project-image">
-                        </div>
-                    </div>
-                </div>
-                <div class="project2-block">
-                    <div class="inner-box">
-                        <div class="project2-content">
-                            <div class="category">Structural Analysis</div>
-                            <img src="{{ asset('assets/images/statika/modeli/K_09_02.jpg') }}" alt="STA JE NA SLICI 1" class="project-image">
+                            <img src="{{ asset('assets/images/MODELI/08_01.bmp') }}" alt="STA JE NA SLICI 1" class="project-image">
                         </div>
                     </div>
                 </div>
@@ -800,58 +824,39 @@
                     <div class="inner-box">
                         <div class="project2-content">
                             <div class="category">Structural Analysis</div>
-                            <img src="{{ asset('assets/images/statika/modeli/02.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                            <img src="{{ asset('assets/images/MODELI/09.png') }}" alt="STA JE NA SLICI 1" class="project-image">
                         </div>
                     </div>
                 </div>
+
                 <div class="project2-block">
                     <div class="inner-box">
                         <div class="project2-content">
                             <div class="category">Structural Analysis</div>
-                            <img src="{{ asset('assets/images/statika/modeli/03.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                            <img src="{{ asset('assets/images/MODELI/10.png') }}" alt="STA JE NA SLICI 1" class="project-image">
                         </div>
                     </div>
                 </div>
+
                 <div class="project2-block">
                     <div class="inner-box">
                         <div class="project2-content">
                             <div class="category">Structural Analysis</div>
-                            <img src="{{ asset('assets/images/statika/modeli/04.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                            <img src="{{ asset('assets/images/MODELI/11_01.png') }}" alt="STA JE NA SLICI 1" class="project-image">
                         </div>
                     </div>
                 </div>
+
                 <div class="project2-block">
                     <div class="inner-box">
                         <div class="project2-content">
                             <div class="category">Structural Analysis</div>
-                            <img src="{{ asset('assets/images/statika/modeli/05.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                            <img src="{{ asset('assets/images/MODELI/11_02.png') }}" alt="STA JE NA SLICI 1" class="project-image">
                         </div>
                     </div>
                 </div>
-                <div class="project2-block">
-                    <div class="inner-box">
-                        <div class="project2-content">
-                            <div class="category">Structural Analysis</div>
-                            <img src="{{ asset('assets/images/statika/modeli/06.png') }}" alt="STA JE NA SLICI 1" class="project-image">
-                        </div>
-                    </div>
-                </div>
-                <div class="project2-block">
-                    <div class="inner-box">
-                        <div class="project2-content">
-                            <div class="category">Structural Analysis</div>
-                            <img src="{{ asset('assets/images/statika/modeli/07.png') }}" alt="STA JE NA SLICI 1" class="project-image">
-                        </div>
-                    </div>
-                </div>
-                <div class="project2-block">
-                    <div class="inner-box">
-                        <div class="project2-content">
-                            <div class="category">Structural Analysis</div>
-                            <img src="{{ asset('assets/images/statika/modeli/08.png') }}" alt="STA JE NA SLICI 1" class="project-image">
-                        </div>
-                    </div>
-                </div>
+
+
 
                 </div>
 
