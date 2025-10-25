@@ -40,18 +40,17 @@
                     <div class="icon"><i class="fal fa-paper-plane"></i></div>
                     <h4>Skillset</h4>
                 </div>
-                <div class="text">There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration some form by injected humour randomised words which don’t look even slightly believable.</div>
                 <div class="skills">
                     <div class="row">
                         <div class="col-md-6">
                             <!--Skill Item-->
                             <div class="skill-item">
-                                <h4>Interior sketch</h4>
+                                <h4>Structural Design</h4>
                                 <div class="skill-bar">
                                     <div class="bar-inner">
-                                        <div class="bar progress-line" data-width="72">
+                                        <div class="bar progress-line" data-width="100">
                                             <div class="skill-percentage">
-                                                <div class="count-box"><span class="count-text" data-speed="2000" data-stop="72">0</span>%</div>
+                                                <div class="count-box"><span class="count-text" data-speed="2000" data-stop="100">0</span>%</div>
                                             </div>
                                         </div>
                                     </div>
@@ -61,10 +60,10 @@
                         <div class="col-md-6">
                             <!--Skill Item-->
                             <div class="skill-item">
-                                <h4>Interior Design</h4>
+                                <h4>Bridge Design</h4>
                                 <div class="skill-bar">
-                                    <div class="bar-inner"><div class="bar progress-line" data-width="60">
-                                            <div class="skill-percentage"><div class="count-box"><span class="count-text" data-speed="2000" data-stop="60">0</span>%</div></div>
+                                    <div class="bar-inner"><div class="bar progress-line" data-width="100">
+                                            <div class="skill-percentage"><div class="count-box"><span class="count-text" data-speed="2000" data-stop="100">0</span>%</div></div>
                                         </div></div>
                                 </div>
                             </div>

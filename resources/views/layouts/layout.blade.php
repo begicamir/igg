@@ -25,7 +25,6 @@
                         <!--Nav Box-->
                         <div class="nav-outer">
                             <!--Mobile Navigation Toggler-->
-                            <div class="mobile-nav-toggler"><img src="{{ asset('assets/images/icons/icon-bar-2.png') }}" alt=""></div>
 
                             <!-- Main Menu -->
                             <!-- Main Menu -->
@@ -48,9 +47,7 @@
                     </div>
                 </div>
             </div>
-            <div class="navbar-right-info">
-                <div class="sidemenu-nav-toggler"><i class="flaticon-menu"></i></div>
-            </div>
+
         </div>
         <!--End Header Upper-->
 
@@ -77,9 +74,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="navbar-right-info">
-                    <div class="sidemenu-nav-toggler"><i class="flaticon-menu"></i></div>
-                </div>
+
             </div>
         </div><!-- End Sticky Menu -->
 
@@ -126,9 +121,7 @@
     @yield('content')
 
     <!--Main Footer-->
-    @if(!isset($footer))
-        <x-footer/>
-    @endif
+
     <!--End Main Footer-->
 
 </div>

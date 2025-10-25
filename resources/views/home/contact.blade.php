@@ -21,23 +21,17 @@
                     <div class="row">
                         <div class="col-md-6">
                             <div class="info-block">
-                                <h5>Email</h5>
-                                <h2><a href="mailto:admin@contact.com">admin@contact.com</a></h2>
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="info-block">
                                 <h5>phone</h5>
-                                <h2><a href="tel:+98(5)87987689">+98 (5) 879 876 89</a></h2>
+                                <h2><a href="tel:+98(5)87987689">+387 62 081 166</a></h2>
                             </div>
                         </div>
                         <div class="separator"></div>
                         <div class="row">
                             <div class="col-md-6">
-                                <div class="text">Mon - Fri: 10:00AM - 06:00PM <br> Sunday: <span>Holiday</span></div>
+                                <div class="text">Mon - Fri: 08:00AM - 04:00PM <br> Saturday, Sunday: <span>Holiday</span></div>
                             </div>
                             <div class="col-md-6">
-                                <div class="text">12/A, Miranda Hilix Tower Hall <br> New York, US</div>
+                                <div class="text">Braca Knežića 44 <br> Mostar, BiH</div>
                             </div>
                         </div>
                     </div>

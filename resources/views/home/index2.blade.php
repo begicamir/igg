@@ -24,7 +24,6 @@
                         <!--Nav Box-->
                         <div class="nav-outer">
                             <!--Mobile Navigation Toggler-->
-                            <div class="mobile-nav-toggler"><img src="{{ asset('assets/images/icons/icon-bar-2.png') }}" alt=""></div>
 
                             <!-- Main Menu -->
                             <nav class="main-menu navbar-expand-md navbar-light">
@@ -75,7 +74,6 @@
                     <i class="fal fa-search"></i>
                     <input type="search" placeholder="Search with keyword">
                 </form>
-                <div class="sidemenu-nav-toggler"><i class="flaticon-menu"></i></div>
             </div>
         </div>
         <!--End Header Upper-->
@@ -107,7 +105,6 @@
                         <i class="fal fa-search"></i>
                         <input type="search" placeholder="Search with keyword">
                     </form>
-                    <div class="sidemenu-nav-toggler"><i class="flaticon-menu"></i></div>
                 </div>
             </div>
         </div><!-- End Sticky Menu -->
@@ -937,7 +934,7 @@
     </section>
 
     <!--Main Footer-->
-    <footer class="main-footer style-two">
+    {{--<footer class="main-footer style-two">
         <div class="upper-box">
             <div class="auto-container">
                 <div class="grid-line">
@@ -1045,7 +1042,7 @@
                 </div>
             </div>
         </div>
-    </footer>
+    </footer>--}}
     <!--End Main Footer-->
 
 </div>

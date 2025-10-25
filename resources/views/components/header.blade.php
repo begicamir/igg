@@ -11,7 +11,6 @@
                     <!--Nav Box-->
                     <div class="nav-outer">
                         <!--Mobile Navigation Toggler-->
-                        <div class="mobile-nav-toggler"><img src="{{ asset('assets/images/icons/icon-bar-2.png') }}" alt=""></div>
 
                         <!-- Main Menu -->
                         <nav class="main-menu navbar-expand-md navbar-light">
@@ -57,9 +56,7 @@
                 </div>
             </div>
         </div>
-        <div class="navbar-right-info">
-            <div class="sidemenu-nav-toggler"><i class="flaticon-menu"></i></div>
-        </div>
+
     </div>
     <!--End Header Upper-->
 
@@ -86,9 +83,7 @@
                     </div>
                 </div>
             </div>
-            <div class="navbar-right-info">
-                <div class="sidemenu-nav-toggler"><i class="flaticon-menu"></i></div>
-            </div>
+
         </div>
     </div><!-- End Sticky Menu -->
 

@@ -24,7 +24,6 @@
                         <!--Nav Box-->
                         <div class="nav-outer">
                             <!--Mobile Navigation Toggler-->
-                            <div class="mobile-nav-toggler"><img src="{{ asset('assets/images/icons/icon-bar-2.png') }}" alt=""></div>
 
                             <!-- Main Menu -->
                             <nav class="main-menu navbar-expand-md navbar-light">
@@ -56,9 +55,7 @@
                     </div>
                 </div>
             </div>
-            <div class="navbar-right-info">
-                <div class="sidemenu-nav-toggler"><i class="flaticon-menu"></i></div>
-            </div>
+
         </div>
         <!--End Header Upper-->
 
@@ -85,9 +82,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="navbar-right-info">
-                    <div class="sidemenu-nav-toggler"><i class="flaticon-menu"></i></div>
-                </div>
+
             </div>
         </div><!-- End Sticky Menu -->
 
@@ -1115,7 +1110,7 @@
 
 
     <!-- Sponsors section -->
-    <section class="sponsors-section" style="background-image: url('{{ asset('assets/images/background/bg-4.jpg') }}')">
+  {{--  <section class="sponsors-section" style="background-image: url('{{ asset('assets/images/background/bg-4.jpg') }}')">
         <div class="auto-container">
             <div class="sec-title light text-center">
                 <h2>Our Partners</h2>
@@ -1134,9 +1129,9 @@
             </div>
         </div>
     </section>
-
+--}}
     <!--Main Footer-->
-    <x-footer/>
+    {{--<x-footer/>--}}
     <!--End Main Footer-->
 
 </div>
