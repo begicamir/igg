@@ -1,0 +1,359 @@
+@media only screen and (max-width: 7000px){
+	.page-wrapper{
+		overflow: hidden;
+	}
+
+}
+
+@media only screen and (max-width: 1799px){
+    .header-style-two .header-upper .logo-box {
+        width: 200px;             /* Desired fixed width */
+        height: 80px;             /* Desired fixed height */
+        padding: 0;               /* No padding */
+        position: absolute;       /* Positioning it */
+        top: 0;
+        left: 0;
+        overflow: hidden;         /* Prevent overflow */
+        display: flex;            /* Center the image inside */
+        align-items: center;
+        justify-content: center;
+        background-color: transparent; /* Optional */
+        z-index: 1000;
+    }
+
+    .header-style-two .main-menu .navigation {
+        margin-top: 0;
+        justify-content: center;
+    }
+
+    .main-header.header-style-two .header-upper .right-column {
+        width: 100%;
+    }
+
+    .main-header.header-style-two .header-upper .right-column .nav-outer {
+        width: 100%;
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 1575px){
+    .banner-slider-pagination.style-two {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 1400px){
+
+	.main-menu .navigation>li:nth-last-child(-n+3)>ul>li>ul {
+	    left: auto;
+	    right: 100%;
+	}
+	.main-menu .navigation > li:nth-last-child(-n+2) > ul {
+	    left: auto;
+	    right: 0;
+	}
+	.main-menu .navigation > li:nth-last-child(-n+2) > ul > li > ul {
+	    left: auto;
+	    right: 100%;
+	}
+    .timeline-block:before {
+        opacity: 0;
+    }
+
+    .timeline-block li .center-box:before {
+        opacity: 0;
+    }
+
+    .timeline-block li {
+        margin-bottom: 65px;
+    }
+}
+
+@media only screen and (max-width: 1199px){
+    .banner-section .swiper-slide:before {
+        width: 100%;
+    }
+    .cta-section-two .image {
+        position: relative;
+        display: inline-block;
+        margin-top: -105px;
+        margin-bottom: 30px;
+    }
+    .skills .skill-item .skill-percentage {
+        top: -28px;
+    }
+}
+
+@media only screen and (max-width: 1099px){
+
+}
+
+@media only screen and (min-width: 1140px){
+
+}
+
+@media only screen and (max-width: 1139px){
+	/* Default */
+	.main-header .nav-outer .main-menu,
+	.sticky-header{
+		display: none !important;
+	}
+	.nav-outer .mobile-nav-toggler{
+		display: block;
+	}
+	/*  */
+    .header-upper .sidemenu-nav-toggler {
+        display: none;
+    }
+    .main-header .header-upper .logo-box {
+        width: 200px;             /* Desired fixed width */
+        height: 80px;             /* Desired fixed height */
+        padding: 0;               /* No padding */
+        position: absolute;       /* Positioning it */
+        top: 0;
+        left: 0;
+        overflow: hidden;         /* Prevent overflow */
+        display: flex;            /* Center the image inside */
+        align-items: center;
+        justify-content: center;
+        background-color: transparent; /* Optional */
+        z-index: 1000;
+    }
+
+    .main-header .header-upper .right-column {
+        width: 100%;
+    }
+
+    .main-header .header-upper .right-column .nav-outer {
+        width: 100%;
+    }
+    .main-header .header-upper .logo-box {
+        width: 200px;             /* Desired fixed width */
+        height: 80px;             /* Desired fixed height */
+        padding: 0;               /* No padding */
+        position: absolute;       /* Positioning it */
+        top: 0;
+        left: 0;
+        overflow: hidden;         /* Prevent overflow */
+        display: flex;            /* Center the image inside */
+        align-items: center;
+        justify-content: center;
+        background-color: transparent; /* Optional */
+        z-index: 1000;
+    }
+
+    .header-style-two .header-upper .navbar-right-info .search-form {
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 992px){
+
+}
+
+@media only screen and (max-width: 991px){
+    .banner-section.style-two .content-box h1,
+	.banner-section .content-box h1 {
+        font-size: 50px;
+        line-height: 50px;
+    }
+    .banner-section .content-box {
+        min-height: 700px;
+    }
+    .page-title h1,
+    .sec-title h2 {
+        font-size: 50px;
+        line-height: 60px;
+    }
+    .cta-content {
+        position: relative;
+        padding-left: 20px;
+        padding-right: 20px;
+        margin-top: 150px;
+        padding-bottom: 0;
+    }
+    .video-section {
+        padding: 150px 0 0;
+    }
+    .sponsors-section.style-two .image {
+        width: 50%;
+    }
+    .about-section-three .image img {
+        width: 100%;
+    }
+    .cta-section-two .info-block {
+        text-align: center;
+    }
+    .team-details .info-block {
+        padding-left: 0;
+        padding-top: 0;
+    }
+    .team-details .info-block .icon-box {
+        position: relative;
+        margin-bottom: 40px;
+    }
+    .team-details .info-block .skills .skill-item {
+        margin-bottom: 30px;
+    }
+    .team-details .author-info-block .image img {
+        width: 100%;
+    }
+    .news-block-two .author-box-two .content {
+        width: 100%;
+        margin-top: 30px;
+    }
+}
+
+@media only screen and (min-width: 768px){
+	.main-menu .navigation > li > ul,
+	.main-menu .navigation > li > ul > li > ul{
+		display:block !important;
+		visibility:hidden;
+		opacity:0;
+	}
+}
+
+@media only screen and (max-width: 767px){
+	br {
+		display: none;
+	}
+    .banner-section.style-two .custom-pager,
+    .grid-line {
+        display: none;
+    }
+    .cta-content .left-column {
+        padding-left: 0;
+        width: 100%;
+    }
+    .cta-content .left-column .image {
+        position: relative;
+        margin-bottom: 20px;
+    }
+    .cta-content .left-column h2 {
+        margin-bottom: 20px;
+    }
+    .projects-section-two .tabs-header {
+        position: relative;
+        left: 0;
+        margin-bottom: 50px;
+    }
+
+    .projects-section-two .outer-container {
+        padding-left: 15px;
+    }
+
+    .projects-section-two .outer-container:before {
+        opacity: 0;
+    }
+    .blog-post-pagination .icon,
+    .banner-slider-pagination {
+        display: none;
+    }
+    .comments-area .comment-box.comment-reply {
+        margin-left: 0;
+    }
+}
+
+@media only screen and (max-width: 575px) {
+	.banner-section.style-two .content-box h1,
+	.banner-section .content-box h1 {
+        font-size: 40px;
+        line-height: 45px;
+    }
+    .page-title h1,
+    .team-details .author-info h3,
+    .sec-title h2 {
+        font-size: 40px;
+        line-height: 50px;
+        letter-spacing: 0;
+    }
+    .about-section-two .author-info {
+        position: relative;
+    }
+    .timeline-block li .content {
+        position: relative;
+        top: 0;
+    }
+    .timeline-block .date {
+        position: relative;
+        text-align: left;
+        top: 0;
+    }
+    .post-pagination .prev-post {
+        padding-left: 0;
+        text-align: center;
+        width: 100%;
+        margin-bottom: 50px;
+    }
+
+    .post-pagination .prev-post .image {
+        position: relative;
+    }
+
+    .post-pagination .next-post {
+        position: relative;
+        width: 100%;
+        text-align: center;
+        padding-right: 0;
+    }
+
+    .post-pagination .next-post .image {
+        position: relative;
+    }
+    .portfolio-details .image-block .project-info ul.info-list li {
+        width: 100%;
+        margin-right: 0;
+    }
+    .portfolio-details .image-block .project-info {
+        margin: 0;
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+    .news-block-two .text .alignleft {
+        float: inherit;
+    }
+    .comments-area .comment {
+        padding-left: 0;
+    }
+
+    .comments-area .comment-box .author-thumb {
+        position: relative;
+    }
+
+    .comments-area .comment-box .reply-btn {
+        position: relative;
+    }
+
+    .blog-post-pagination {
+        text-align: center;
+    }
+
+    .blog-post-pagination .next-post {
+        text-align: center;
+    }
+
+    .blog-post-pagination .prev-post {
+        margin-bottom: 30px;
+    }
+
+    .blog-single-post .post-share .right-column {
+        width: 100%;
+        text-align: left;
+        margin-top: 30px;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+	.sponsors-section.style-two .image {
+        width: 100%;
+    }
+}
+
+
+
+
+
+
+
+
+

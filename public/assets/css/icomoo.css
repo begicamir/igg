@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'icomoo';
+    src: url('../fonts/icomoo.woff') format('woff'),  url('../fonts/icomoo.ttf') format('truetype');
+}
+i[class^="icomoo-"]:before, i[class*=" icomoo-"]:before {
+     font-family: icomoo !important;
+     font-style: normal;
+     font-weight: normal !important;
+     font-variant: normal;
+     text-transform: none;
+     line-height: 1;
+     -webkit-font-smoothing: antialiased;
+     -moz-osx-font-smoothing: grayscale;
+ }
+
+.icomoo-pipe:before {
+    content: "\e900";
+}

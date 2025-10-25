@@ -1,0 +1,122 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("../fonts/flaticon.ttf?2389e2fb50134f03f77a1ed52b3aaac5") format("truetype"),
+url("../fonts/flaticon.woff?2389e2fb50134f03f77a1ed52b3aaac5") format("woff"),
+url("../fonts/flaticon.woff2?2389e2fb50134f03f77a1ed52b3aaac5") format("woff2"),
+url("../fonts/flaticon.eot?2389e2fb50134f03f77a1ed52b3aaac5#iefix") format("embedded-opentype"),
+url("../fonts/flaticon.svg?2389e2fb50134f03f77a1ed52b3aaac5#flaticon") format("svg");
+}
+
+@font-face {
+    font-family: 'icomoo';
+    src: url('../fonts/icomoo.woff') format('woff'),  url('../fonts/icomoo.ttf') format('truetype');
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
+}i[class^="icomoo-"]:before, i[class*=" icomoo-"]:before {
+    font-family: icomoo !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-interior-plan:before {
+    content: "\f101";
+}
+.flaticon-window:before {
+    content: "\f102";
+}
+.flaticon-desktop:before {
+    content: "\f103";
+}
+.flaticon-cottage:before {
+    content: "\f104";
+}
+.flaticon-beauty-salon:before {
+    content: "\f105";
+}
+.flaticon-interior:before {
+    content: "\f106";
+}
+.flaticon-design:before {
+    content: "\f107";
+}
+.flaticon-interior-design:before {
+    content: "\f108";
+}
+.flaticon-interior-design-1:before {
+    content: "\f109";
+}
+.flaticon-blueprint:before {
+    content: "\f10a";
+}
+.flaticon-blueprint-1:before {
+    content: "\f10b";
+}
+.flaticon-drill:before {
+    content: "\f10c";
+}
+.flaticon-quote:before {
+    content: "\f10d";
+}
+.flaticon-menu:before {
+    content: "\f10e";
+}
+.flaticon-ruler:before {
+    content: "\f10f";
+}
+.icomoo-pipe:before {
+    content: "\e900";
+}
+.flaticon-scale:before {
+    content: "\f110";
+}
+.flaticon-tools:before {
+    content: "\f111";
+}
+.flaticon-drill-1:before {
+    content: "\f112";
+}
+.flaticon-graphic-design:before {
+    content: "\f113";
+}
+.flaticon-beauty-salon-1:before {
+    content: "\f114";
+}
+.flaticon-blueprint-2:before {
+    content: "\f115";
+}
+.flaticon-measure:before {
+    content: "\f116";
+}
+.flaticon-home:before {
+    content: "\f117";
+}
+.flaticon-architect:before {
+    content: "\f118";
+}
+.flaticon-floor-plan:before {
+    content: "\f119";
+}
+.flaticon-architecture-and-city:before {
+    content: "\f11a";
+}
+.flaticon-blueprint-3:before {
+    content: "\f11b";
+}
+.flaticon-blueprint-4:before {
+    content: "\f11c";
+}
