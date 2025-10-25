@@ -129,7 +129,7 @@
         <div class="swiper-container banner-slider" data-arrow="visible-desktop">
             <div class="swiper-wrapper">
                 <!-- Slide Item -->
-                <div class="swiper-slide" style="background-image: url('{{ asset('assets/images/statika/00.png') }}')">
+                <div class="swiper-slide" style="background-image: url('{{ asset('assets/images/ARHITEKTURA/00.jpg') }}')">
                     <div class="content-outer">
 
                         <div class="content-box">
@@ -151,19 +151,21 @@
     <section class="projects-section" style="background-image: url('{{ asset('assets/images/background/img_1.png') }}')">
         <div class="auto-container">
             <div class="theme_carousel owl-theme owl-carousel" data-options='{"loop": true, "center": false, "margin": 0, "autoheight":true, "lazyload":true, "nav": true, "dots": true, "autoplay": true, "autoplayTimeout": 6000, "smartSpeed": 1000, "responsive":{ "0" :{ "items": "1" }, "480" :{ "items" : "1" }, "600" :{ "items" : "2" }, "768" :{ "items" : "2" } , "992":{ "items" : "3" }, "1200":{ "items" : "3" }}}'>
+
                 <div class="project-block">
                     <div class="inner-box">
                         <div class="project-content">
                             <div class="category">Architecture</div>
-                            <img src="{{ asset('assets/images/statika/01_02.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                            <img src="{{ asset('assets/images/ARHITEKTURA/01_01.png') }}" alt="STA JE NA SLICI 1" class="project-image">
                         </div>
                     </div>
                 </div>
                 <div class="project-block">
+
                     <div class="inner-box">
                         <div class="project-content">
                             <div class="category">Architecture</div>
-                            <img src="{{ asset('assets/images/statika/01_09.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                            <img src="{{ asset('assets/images/ARHITEKTURA/01_02.png') }}" alt="STA JE NA SLICI 1" class="project-image">
                         </div>
                     </div>
                 </div>
@@ -172,31 +174,16 @@
                     <div class="inner-box">
                         <div class="project-content">
                             <div class="category">Architecture</div>
-                            <img src="{{ asset('assets/images/statika/02_08.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                            <img src="{{ asset('assets/images/ARHITEKTURA/01_03.png') }}" alt="STA JE NA SLICI 1" class="project-image">
                         </div>
                     </div>
                 </div>
                 <div class="project-block">
+
                     <div class="inner-box">
                         <div class="project-content">
                             <div class="category">Architecture</div>
-                            <img src="{{ asset('assets/images/statika/03_09.png') }}" alt="STA JE NA SLICI 1" class="project-image">
-                        </div>
-                    </div>
-                </div>
-                <div class="project-block">
-                    <div class="inner-box">
-                        <div class="project-content">
-                            <div class="category">Architecture</div>
-                            <img src="{{ asset('assets/images/statika/03_12.png') }}" alt="STA JE NA SLICI 1" class="project-image">
-                        </div>
-                    </div>
-                </div>
-                <div class="project-block">
-                    <div class="inner-box">
-                        <div class="project-content">
-                            <div class="category">Architecture</div>
-                            <img src="{{ asset('assets/images/statika/04_01.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                            <img src="{{ asset('assets/images/ARHITEKTURA/01_04.png') }}" alt="STA JE NA SLICI 1" class="project-image">
                         </div>
                     </div>
                 </div>
@@ -205,28 +192,556 @@
                     <div class="inner-box">
                         <div class="project-content">
                             <div class="category">Architecture</div>
-                            <img src="{{ asset('assets/images/statika/05_06.png') }}" alt="STA JE NA SLICI 1" class="project-image">
-                        </div>
-                    </div>
-                </div>
-                <div class="project-block">
-                    <div class="inner-box">
-                        <div class="project-content">
-                            <div class="category">Architecture</div>
-                            <img src="{{ asset('assets/images/statika/06_06.png') }}" alt="STA JE NA SLICI 1" class="project-image">
-                        </div>
-                    </div>
-                </div>
-                <div class="project-block">
-                    <div class="inner-box">
-                        <div class="project-content">
-                            <div class="category">Architecture</div>
-                            <img src="{{ asset('assets/images/statika/06_09.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                            <img src="{{ asset('assets/images/ARHITEKTURA/01_05.png') }}" alt="STA JE NA SLICI 1" class="project-image">
                         </div>
                     </div>
                 </div>
 
+                <div class="project-block">
 
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/01_06.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/01_07.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/01_08.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/01_09.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/01_10.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/01_11.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/01_12.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/02_01.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/02_02.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/02_03.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/02_04.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/02_05.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/02_06.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/02_07.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/02_08.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/02_09.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/02_10.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/02_11.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/03_01.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/03_02.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/03_03.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/03_04.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/03_05.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/03_06.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/03_07.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/03_08.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/03_09.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/03_10.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/03_11.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/03_12.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/03_13.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/04_01.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/04_02.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/04_03.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/04_04.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/04_05.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/04_06.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/04_07.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/04_08.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/04_09.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/04_10.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/04_11.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/04_12.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/04_13.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/05_01.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/05_02.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/05_03.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/05_04.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/05_05.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/05_06.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/06_01.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/06_02.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/06_03.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/06_04.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/06_05.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/06_06.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/06_07.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/06_08.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/06_09.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
 
             </div>
         </div>
