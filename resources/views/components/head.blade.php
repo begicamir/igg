@@ -1,6 +1,6 @@
 <head>
 <meta charset="utf-8">
-<title>Arcix Architecture HTML Template</title>
+<title>Inženjerska Grupacija Global</title>
 <!-- Stylesheets -->
 <link href="{{ asset('assets/css/bootstrap.css') }}" rel="stylesheet">
 <link href="{{ asset('assets/css/style.css') }}" rel="stylesheet">
