@@ -44,25 +44,24 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="contact-form">
-                        <form>
-                            <div class="row">
+                            <form action="{{ route('contact.send') }}" method="POST">
+                                @csrf
                                 <div class="form-group col-md-12">
-                                    <input type="text" placeholder="Enter Full Name">
+                                    <input type="text" name="name" placeholder="Enter Full Name">
                                     <i class="fal fa-user"></i>
                                 </div>
                                 <div class="form-group col-md-12">
-                                    <input type="email" placeholder="Enter Email Address">
+                                    <input type="email" name="email" placeholder="Enter Email Address">
                                     <i class="fal fa-envelope"></i>
                                 </div>
                                 <div class="form-group col-md-12">
-                                    <textarea placeholder="Your Message"></textarea>
+                                    <textarea name="message" placeholder="Your Message"></textarea>
                                     <i class="fal fa-pencil"></i>
                                 </div>
                                 <div class="form-group col-md-12">
                                     <button class="theme-btn style-one"><span>Get A Quote</span></button>
                                 </div>
-                            </div>
-                        </form>
+                            </form>
                     </div>
                 </div>
             </div>

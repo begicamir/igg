@@ -12,6 +12,9 @@ use App\Http\Controllers\PortfolioController;
             Route::get('/index-2','index2')->name('index2');
             Route::get('about', 'about')->name('about');
             Route::get('contact', 'contact')->name('contact');
+            // routes/web.php
+            Route::post('/contact', 'send')->name('contact.send');
+
         });
     });
 
