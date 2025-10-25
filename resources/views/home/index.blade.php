@@ -785,7 +785,7 @@
                     <div class="inner-box">
                         <div class="project2-content">
                             <div class="category">Structural Analysis</div>
-                            <img src="{{ asset('assets/images/MODELI/05_01.bmp') }}" alt="STA JE NA SLICI 1" class="project-image">
+                            <img src="{{ asset('assets/images/MODELI/05_01.png') }}" alt="STA JE NA SLICI 1" class="project-image">
                         </div>
                     </div>
                 </div>
