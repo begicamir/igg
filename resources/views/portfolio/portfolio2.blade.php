@@ -7,24 +7,80 @@
     // Example portfolio data with PDF URLs and info
     $portfolioItems = [
         [
-            'pdf' => asset('assets/images/fajlovi/FOMA.pdf'),
+            'pdf' => asset('assets/images/pdfovi/ARCHITECTURAL_PROJECT_OF_RESIDENTAL_BUILDING_01.pdf'),
             'category' => 'Architecture',
-            'title' => 'Stone Mix House',
-            'location' => 'London, UK',
+            'title' => 'Residential Building',
+            'location' => 'Bosnia and Herzegovina',
             'route' => route('portfolioDetails'),
         ],
         [
-            'pdf' => asset('assets/images/fajlovi/hrnjica.pdf'),
-            'category' => 'Interior Design',
-            'title' => 'Modern Living Room',
-            'location' => 'New York, USA',
+            'pdf' => asset('assets/images/pdfovi/ARCHITECTURAL_PROJECT_OF_RESIDENTAL_BUILDING_02.pdf'),
+            'category' => 'Architecture',
+            'title' => 'Residential Building',
+           'location' => 'Bosnia and Herzegovina',
             'route' => route('portfolioDetails'),
         ],
         [
-            'pdf' => asset('assets/images/fajlovi/referalniCentar.pdf'),
-            'category' => 'Interior Design',
-            'title' => 'Modern Living Room',
-            'location' => 'New York, USA',
+            'pdf' => asset('assets/images/pdfovi/ARCHITECTURAL_PROJECT_OF_RESIDENTAL_BUILDING_03.pdf'),
+            'category' => 'Architecture',
+            'title' => 'Residential Buildingm',
+           'location' => 'Bosnia and Herzegovina',
+            'route' => route('portfolioDetails'),
+        ],
+         [
+            'pdf' => asset('assets/images/pdfovi/ARCHITECTURAL_PROJECT_OF_RESIDENTAL_BUILDING_04.pdf'),
+            'category' => 'Architecture',
+            'title' => 'Residential Building',
+            'location' => 'Bosnia and Herzegovina',
+            'route' => route('portfolioDetails'),
+        ],
+         [
+            'pdf' => asset('assets/images/pdfovi/ARCHITECTURAL_PROJECT_OF_RESIDENTAL_BUILDING_05.pdf'),
+            'category' => 'Architecture',
+            'title' => 'Residential Building',
+            'location' => 'Bosnia and Herzegovina',
+            'route' => route('portfolioDetails'),
+        ],
+         [
+            'pdf' => asset('assets/images/pdfovi/STRUCTURAL_CALCLULATION_OF_WOODEN_MODULAR_HOUSE.pdf'),
+            'category' => 'Structural',
+            'title' => 'Wooden Modular House',
+            'location' => 'Bosnia and Herzegovina',
+            'route' => route('portfolioDetails'),
+        ],
+         [
+            'pdf' => asset('assets/images/pdfovi/STRUCTURAL_PROJECT_OF_RESIDENTAL BUILDING_01.pdf'),
+            'category' => 'Structural',
+            'title' => 'Residential Building',
+           'location' => 'Bosnia and Herzegovina',
+            'route' => route('portfolioDetails'),
+        ],
+         [
+            'pdf' => asset('assets/images/pdfovi/STRUCTURAL_PROJECT_OF_RESIDENTAL BUILDING_02.pdf'),
+            'category' => 'Structural',
+            'title' => 'Residential Building',
+         'location' => 'Bosnia and Herzegovina',
+            'route' => route('portfolioDetails'),
+        ],
+         [
+            'pdf' => asset('assets/images/pdfovi/STRUCTURAL_PROJECT_OF_RESIDENTAL BUILDING_03.pdf'),
+            'category' => 'Structural',
+            'title' => 'Residential Building',
+           'location' => 'Bosnia and Herzegovina',
+            'route' => route('portfolioDetails'),
+        ],
+         [
+            'pdf' => asset('assets/images/pdfovi/STRUCTURAL_PROJECT_OF_RESIDENTAL BUILDING_04.pdf'),
+            'category' => 'Structural',
+            'title' => 'Residential Building',
+           'location' => 'Bosnia and Herzegovina',
+            'route' => route('portfolioDetails'),
+        ],
+         [
+            'pdf' => asset('assets/images/pdfovi/STRUCTURAL_PROJECT_OF_RESIDENTAL BUILDING_05.pdf'),
+            'category' => 'Structural',
+            'title' => 'Residential Building',
+            'location' => 'Bosnia and Herzegovina',
             'route' => route('portfolioDetails'),
         ],
         // Add more items here...
@@ -101,7 +157,7 @@
                     </div>
                     <div class="info-container">
                         <div class="info-category">{{ $item['category'] }}</div>
-                        <h4 class="info-title"><a href="{{ $item['route'] }}">{{ $item['title'] }}</a></h4>
+                        <h4 class="info-title">{{--<a href="{{ $item['route'] }}">--}}{{ $item['title'] }}</a></h4>
                         <div class="info-location"><i class="fal fa-map-marker-alt"></i> {{ $item['location'] }}</div>
                     </div>
                 </div>
