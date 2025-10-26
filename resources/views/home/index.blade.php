@@ -733,7 +733,34 @@
                     <div class="inner-box">
                         <div class="project-content">
                             <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/07_01.jpg') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
                             <img src="{{ asset('assets/images/ARHITEKTURA/06_09.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/07_02.jpg') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project-block">
+
+                    <div class="inner-box">
+                        <div class="project-content">
+                            <div class="category">Architecture</div>
+                            <img src="{{ asset('assets/images/ARHITEKTURA/07_03.jpg') }}" alt="STA JE NA SLICI 1" class="project-image">
                         </div>
                     </div>
                 </div>
