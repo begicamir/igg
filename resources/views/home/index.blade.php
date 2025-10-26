@@ -850,6 +850,62 @@
                         </div>
                     </div>
                 </div>
+                <div class="project2-block">
+                    <div class="inner-box">
+                        <div class="project2-content">
+                            <div class="category">Structural Analysis</div>
+                            <img src="{{ asset('assets/images/MODELI/12.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project2-block">
+                    <div class="inner-box">
+                        <div class="project2-content">
+                            <div class="category">Structural Analysis</div>
+                            <img src="{{ asset('assets/images/MODELI/13.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project2-block">
+                    <div class="inner-box">
+                        <div class="project2-content">
+                            <div class="category">Structural Analysis</div>
+                            <img src="{{ asset('assets/images/MODELI/14.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project2-block">
+                    <div class="inner-box">
+                        <div class="project2-content">
+                            <div class="category">Structural Analysis</div>
+                            <img src="{{ asset('assets/images/MODELI/15.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project2-block">
+                    <div class="inner-box">
+                        <div class="project2-content">
+                            <div class="category">Structural Analysis</div>
+                            <img src="{{ asset('assets/images/MODELI/16.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project2-block">
+                    <div class="inner-box">
+                        <div class="project2-content">
+                            <div class="category">Structural Analysis</div>
+                            <img src="{{ asset('assets/images/MODELI/17.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
+                <div class="project2-block">
+                    <div class="inner-box">
+                        <div class="project2-content">
+                            <div class="category">Structural Analysis</div>
+                            <img src="{{ asset('assets/images/MODELI/18.png') }}" alt="STA JE NA SLICI 1" class="project-image">
+                        </div>
+                    </div>
+                </div>
 
 
 
@@ -909,7 +965,9 @@
                                 <div class="icon">
                                     <i class="flaticon-ruler"></i>
                                 </div>
-                                <h4><a href="{{ route('serviceDetails') }}">Structural Design</a></h4>
+                                {{--<h4><a href="{{ route('serviceDetails') }}">Structural Design</a></h4>--}}
+                                <h4>Structural Design</h4>
+
                                 <div class="text">
                                     We provide safe, efficient, and code-compliant <br>
                                     structural solutions for all types of structures.
@@ -924,7 +982,8 @@
                                 <div class="icon">
                                     <i class="flaticon-blueprint-4"></i>
                                 </div>
-                                <h4><a href="{{ route('serviceDetails2') }}">Architecture Design</a></h4>
+                                {{--<h4><a href="{{ route('serviceDetails2') }}">Architecture Design</a></h4>--}}
+                                <h4>Architectural Design</h4>
                                 <div class="text">
                                     Creative and functional architectural concepts <br>  tailored to your needs —
                                     including 3D renders <br>  that provide a realistic visual representation <br>  of your future space.
@@ -941,7 +1000,8 @@
                                 <div class="icon">
                                     <i class="flaticon-tools"></i>
                                 </div>
-                                <h4><a href="{{ route('serviceDetails3') }}">Consulting</a></h4>
+                                {{--<h4><a href="{{ "#" }}">Consulting</a></h4>--}}
+                                <h4>Consulting</h4>
                                 <div class="text">
                                     Expert engineering advice and support <br>
                                     through every stage of your project.
@@ -956,7 +1016,9 @@
                                 <div class="icon">
                                     <i class="icomoo-pipe"></i>
                                 </div>
-                                <h4><a href="{{ route('serviceDetails4') }}">MEP Engineering</a></h4>
+                                {{--<h4><a href="{{ route('serviceDetails4') }}">MEP Engineering</a></h4>--}}
+                                <h4>MEP Engineering</h4>
+
                                 <div class="text">
                                     Integrated mechanical, electrical and plumbing designs <br> optimized for performance and sustainability.
                                 </div>
