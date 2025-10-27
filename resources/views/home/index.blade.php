@@ -24,7 +24,7 @@
                         <!--Nav Box-->
                         <div class="nav-outer">
                             <!--Mobile Navigation Toggler-->
-
+                            <div class="mobile-nav-toggler"><img src="{{ asset('assets/images/icons/icon-bar-2.png') }}" alt=""></div>
                             <!-- Main Menu -->
                             <nav class="main-menu navbar-expand-md navbar-light">
                                 <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
@@ -55,7 +55,9 @@
                     </div>
                 </div>
             </div>
-
+            <div class="navbar-right-info">
+                <div class="sidemenu-nav-toggler"><i class="flaticon-menu"></i></div>
+            </div>
         </div>
         <!--End Header Upper-->
 
@@ -82,7 +84,9 @@
                         </div>
                     </div>
                 </div>
-
+                <div class="navbar-right-info">
+                    <div class="sidemenu-nav-toggler"><i class="flaticon-menu"></i></div>
+                </div>
             </div>
         </div><!-- End Sticky Menu -->
 
@@ -94,15 +98,7 @@
             <nav class="menu-box">
                 <div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header--></div>
 				<!--Social Links-->
-				<div class="social-links">
-					<ul class="clearfix">
-						<li><a href="#"><span class="fab fa-twitter"></span></a></li>
-						<li><a href="#"><span class="fab fa-facebook-square"></span></a></li>
-						<li><a href="#"><span class="fab fa-pinterest-p"></span></a></li>
-						<li><a href="#"><span class="fab fa-instagram"></span></a></li>
-						<li><a href="#"><span class="fab fa-youtube"></span></a></li>
-					</ul>
-                </div>
+
             </nav>
         </div><!-- End Mobile Menu -->
 
